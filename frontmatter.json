@@ -18,28 +18,9 @@
       "clearEmpty": true,
       "fields": [
         {
-          "title": "Title",
+          "title": "title",
           "name": "title",
-          "type": "string",
-          "single": true
-        },
-        {
-          "title": "Description",
-          "name": "description",
           "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "pubDate",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Content preview",
-          "name": "heroImage",
-          "type": "image",
-          "isPreviewImage": true
         },
         {
           "title": "author",
@@ -67,8 +48,31 @@
           "type": "tags"
         },
         {
-          "title": "timezone",
-          "name": "timezone",
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "test"
+          ]
+        },
+        {
+          "title": "preview",
+          "name": "preview",
+          "type": "string"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "fmContentType",
+          "name": "fmContentType",
           "type": "string"
         }
       ]

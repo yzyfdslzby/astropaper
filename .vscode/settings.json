@@ -9,5 +9,7 @@
         "path": "src/assets",
         "relative": true
     },
-    "frontMatter.git.enabled": true
+    "frontMatter.git.enabled": true,
+    "[markdown]": {
+    }
 }

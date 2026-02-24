@@ -1,6 +1,6 @@
 ---
 title: myblog
-pubDate: 2026-02-24T07:48:18.996Z
+pubDatetime: 2026-02-24T07:48:18.000Z
 keywords:
     - test
 description: only a test
@@ -9,6 +9,8 @@ tags:
     - test
 categories:
     - test
+fmContentType: default
+author: m
 ---
 
 myblog
