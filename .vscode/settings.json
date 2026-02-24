@@ -1,0 +1,13 @@
+{
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "blog",
+            "path": "[[workspace]]/src/data/blog"
+        }
+    ],
+    "frontMatter.content.publicFolder": {
+        "path": "src/assets",
+        "relative": true
+    },
+    "frontMatter.git.enabled": true
+}
