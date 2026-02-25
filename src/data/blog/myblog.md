@@ -10,7 +10,7 @@ tags:
 categories:
     - test
 fmContentType: default
-author: m
+author: mnt
 ---
 
 myblog
